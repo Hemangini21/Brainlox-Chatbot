@@ -1,6 +1,6 @@
 # 🧠 AI Chatbot with FAISS and Groq LLM  
 
-Deployed on Streamlit:https://brainlox-chatbot-88ltxwczonehkjjtysct7r.streamlit.app/
+Deployed on Streamlit: https://brainlox-chatbot-88ltxwczonehkjjtysct7r.streamlit.app/
 
 ## 📌 Overview  
 This project implements an AI-powered chatbot using **Groq LLM** for intelligent responses and **FAISS (Facebook AI Similarity Search)** for efficient vector-based retrieval. The chatbot is built using **Streamlit**, supports embeddings for improved context retrieval, and integrates a web scraper for course data from Brainlox.  
