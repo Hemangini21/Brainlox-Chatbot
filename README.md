@@ -105,8 +105,6 @@ python embeddings.py
 │── 📜 embeddings.py      # FAISS embeddings generator
 │── 📜 requirements.txt   # Dependencies
 │── 📜 README.md          # Documentation
-│── 📂 models/            # (Optional) Store LLM models
-│── 📂 data/              # (Optional) Store scraped data
 │── 📜 .env               # Environment variables
 ```
 
