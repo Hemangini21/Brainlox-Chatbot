@@ -47,7 +47,7 @@ graph TD
 ### Steps  
 1️⃣ **Clone the Repository**  
 ```sh
-git clone https://github.com/your-repo/chatbot.git
+git clone https://github.com/Hemangini21/Brainlox-Chatbot.git
 cd chatbot
 ```
 
