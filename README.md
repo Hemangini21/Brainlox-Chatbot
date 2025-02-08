@@ -68,7 +68,6 @@ Create a `.env` file in the project root and add:
 ```ini
 GROK_LLM_API_KEY=your_api_key_here
 VECTOR_DB_PATH=vector_store.faiss
-GROK_LLAMAMODEL_PATH=path_to_your_model
 ```
 
 ---
